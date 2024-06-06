@@ -1,34 +1,34 @@
 {
     "recipes": [
-<<<<<<< HEAD
     {
-=======
-      {
->>>>>>> 9fa5795131ebabc328ae5400ce87c4aeab1d9244
         "id": 1,
         "name": "Spaghetti Carbonara",
         "image": "https://source.unsplash.com/200x200/?spaghetti",
-        "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs", "50g pecorino cheese", "50g parmesan", "Black pepper", "Salt"],
-        "instructions": "Boil the spaghetti. Fry the pancetta. Mix the eggs and cheese. Combine all with the pasta."
-<<<<<<< HEAD
+        "ingredients": [
+        "200g Spaghetti",
+        "100g Pancetta",
+        "2 large eggs",
+        "50g Pecorino cheese",
+        "50g Parmesan",
+        "Black pepper",
+        "Salt"
+        ],
+        "instructions": "Cook the spaghetti. Meanwhile, fry the pancetta. Beat the eggs and mix with cheese. Combine everything."
     },
     {
-=======
-      },
-      {
->>>>>>> 9fa5795131ebabc328ae5400ce87c4aeab1d9244
         "id": 2,
         "name": "Chicken Curry",
         "image": "https://source.unsplash.com/200x200/?curry",
-        "ingredients": ["500g chicken", "2 onions", "3 cloves garlic", "1 tbsp ginger", "2 tbsp curry powder", "400ml coconut milk", "Salt"],
-        "instructions": "Fry the onions, garlic, and ginger. Add the chicken and curry powder. Pour in the coconut milk and simmer."
-<<<<<<< HEAD
+        "ingredients": [
+    "500g chicken breast",
+        "2 onions",
+    "3 cloves garlic",
+        "1 tbsp curry powder",
+        "400ml coconut milk",
+        "Salt",
+        "Pepper"
+        ],
+        "instructions": "Cook the onions and garlic. Add chicken and curry powder. Stir in coconut milk and simmer."
     }
     ]
 }
-=======
-      }
-    ]
-  }
-  
->>>>>>> 9fa5795131ebabc328ae5400ce87c4aeab1d9244
